@@ -13,8 +13,7 @@ First, install `atoll`:
 
 Then run the example server in this repo:
 
-    cd examples
-    python server.py
+    python examples/server.py
 
 Then run the `main.go` example:
 
